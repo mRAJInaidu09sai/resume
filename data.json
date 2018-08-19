@@ -1,0 +1,48 @@
+{
+	"basicdetails":{
+		"image":"image.jpg.jpg",
+		"name":"divya sree.Marreddy",
+		"email":"divaysricherry@gmail.com",
+		"phoneno":"8639039610",
+		"address":"syamalanagar-3rdlane extension"
+	},
+	"education":[
+		{
+		"course":"b.tech(c.s.e)",
+		"college":"vignans nirula institute of technology and science for women",
+		"percentage":"75%"
+	},
+	{
+		"course":"intermediate(MPC)",
+		"college":"narayana junior college",
+		"percentage":"90%"
+	},
+	{
+		"course":"ssc",
+		"college":"G.K.R public school",
+		"percentage":"CGPA-9.3"
+	}
+],
+	"skillset":[
+		{
+			"name":"operatingsystem",
+			"value":"linux,windows,mac"
+		},
+		{
+			"name":"programminglanguages",
+			"value":"c,c++,java"
+		}
+	],
+	"carrier":{
+		"ca":"Iwillworkhardforthedevelopmentofthecompany"
+	},
+	"achievements":[
+	"I got third prize in coding.",
+	"I got first prize in seminar."
+	],
+	"descriptiond":{
+		"des":"I there by declare that all the above mentioned information of mine are true. else I am ready to face the consequences."
+	}
+
+
+}
